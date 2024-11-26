@@ -1,0 +1,46 @@
+.container{
+    background-color: limegreen;
+}
+
+div{
+    height: 20px;
+    width:  20px;
+}
+#one{
+    background-color: black;
+}
+#two{
+    background-color: white;
+    position: relative;
+    left: 20px;
+}
+#three{
+    background-color: black;
+    position: relative;
+    left: 40px;
+}
+#four{
+    background-color: white;
+    position: relative;
+    left: 60px;
+}
+#five{
+    background-color: black;
+    position: relative;
+    left: 80px;
+}
+#six{
+    background-color: white;
+    position: relative;
+    left: 100px;
+}
+#seven{
+    background-color: black;
+    position: relative;
+    left: 120px;
+}
+#eight{
+    background-color: white;
+    position: relative;
+    left: 140px;
+}
